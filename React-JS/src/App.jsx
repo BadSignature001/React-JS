@@ -1,4 +1,5 @@
 import Hooks from "./Concepts/Hooks"
+import Props from "./Concepts/Props/Props"
 
 
 function App() {
@@ -6,7 +7,9 @@ function App() {
 
   return (
     <>
-      <Hooks />
+    <Props />
+    { /* <Hooks /> */}
+      
     </>
   )
 }

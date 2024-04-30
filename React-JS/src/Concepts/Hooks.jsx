@@ -1,6 +1,7 @@
 /* Here we are learning about Basic Hooks Methods, one of them is UseState */
 /* when ever we need to make changes in the UI the react will handle the control from us */
 /* we will learn UseState Hook by making changes in the UI */
+/* Here we see how to manipulate variables and show the result in the UI using hooks: useState */
 
 import {useState} from 'react'
 
